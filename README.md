@@ -46,9 +46,9 @@ This project evolved from a basic server to a robust application with a suite of
 
 This project was developed iteratively over a period of intensive work.
 
-* **Initial Conception (August 8, 2025):** The project began with the foundational goal of building a simple multithreaded server and a basic linked-list cache.
-* **Core Implementation (August 9, 2025):** The initial, functional version was completed, featuring the thread pool architecture and a working (though inefficient) LRU cache.
-* **Performance & Feature Enhancements (August 9-10, 2025):** The simple cache was replaced with the high-performance hash table and doubly-linked list implementation. Advanced features including HTTPS tunneling, the configuration file, logging, and the blacklist were integrated.
+* **Initial Conception (July 21, 2025):** The project began with the foundational goal of building a simple multithreaded server and a basic linked-list cache.
+* **Core Implementation (August 2, 2025):** The initial, functional version was completed, featuring the thread pool architecture and a working (though inefficient) LRU cache.
+* **Performance & Feature Enhancements (August 5-8, 2025):** The simple cache was replaced with the high-performance hash table and doubly-linked list implementation. Advanced features including HTTPS tunneling, the configuration file, logging, and the blacklist were integrated.
 * **Debugging & Stabilization (August 10, 2025):** This phase involved intensive debugging, particularly focusing on the complex HTTP parsing library, process management in the terminal, and ensuring end-to-end functionality.
 
 ---

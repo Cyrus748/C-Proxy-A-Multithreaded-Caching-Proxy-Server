@@ -12,6 +12,7 @@ My name is Aditya Negi, and I am a passionate software developer with a keen int
 
 The server acts as an intermediary for web requests. Instead of clients connecting directly to a web server, they connect to this proxy. The proxy then fetches the requested content, forwards it to the client, and intelligently caches it to speed up subsequent requests.
 
+![FlowChart](https://github.com/Cyrus748/C-Proxy-A-Multithreaded-Caching-Proxy-Server/blob/main/Important%20Docs%20-%20Documentation/FlowChart/C-Proxy_%20A%20Multithreaded%20Caching%20Proxy%20Server.drawio.png)
 
 
 ### Core Architectural Components

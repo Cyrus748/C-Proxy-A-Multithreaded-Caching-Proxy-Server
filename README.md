@@ -1,5 +1,4 @@
-````markdown
-# High-Performance Caching Web Proxy
+# C-Proxy: A Multithreaded Caching Proxy Server
 
 This project is a high-performance, multithreaded caching web proxy server developed in C on a Linux platform. It is designed to be an efficient intermediary between web clients and servers, accelerating web access by caching frequently requested content and handling a large number of concurrent connections gracefully.
 
@@ -126,5 +125,3 @@ This project stands on the shoulders of excellent educational resources and my o
 
 <!-- end list -->
 
-```
-```
